@@ -4,7 +4,7 @@ This repo contains the code for the article "speckle pattern calculation and sca
 ```shell
 ├── src
 │   ├── correlation_calculation.py
-|   └── fienup_algorithm.py
+│   └── fienup_algorithm.py
 ├── multi_ccd_img_phase_retrieval.py
 └── README.md
 ```
